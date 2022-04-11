@@ -44,6 +44,3 @@ def mergesort(array:list):
             k = k + 1
         
         return array
-
-lis = [4, 8, 7, 2, 6, 1]
-print(mergesort(lis))
